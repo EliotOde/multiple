@@ -1,0 +1,23 @@
+body {
+    background-color: aqua;
+}
+
+h1 {
+    color: darkgreen;
+}
+
+h3 {
+    color: darkgoldenrod;
+}
+
+td {
+    color: darkslategrey;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: crimson;
+    border-width: 30px;
+    width: 10%;
+}
